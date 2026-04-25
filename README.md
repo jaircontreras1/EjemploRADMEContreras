@@ -32,7 +32,9 @@
 3. Cierre conclusión FODA de proyecto y materia
 
 <span style="color: red;">**ENTREGABLES**</span> Documentación con fases y actividades del proyecto (Imprimir pantallas).
+
 <span style="color: orange;">**ENTREGABLES**</span> Proyecto enlace de GITHUB.
+
 <span style="color: blue;">**ENTREGABLES**</span> Archivos extra y anexos.
 
 
